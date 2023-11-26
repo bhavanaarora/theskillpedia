@@ -79,7 +79,7 @@ const Navbar = () => {
 
 
                       {/* <!-- col2:start --> */}
-                      <div class=" col-12 col-xxl-3  py-4 px-xl-5 px-4">
+                      <div class=" col-12 col-xxl-3  py-4 px-xl-2 px-4">
                         <h5 class="fw-bold">Design</h5>
                         <div class="list-group">
                           <Link to ="/" class="list-group-item">
@@ -112,7 +112,7 @@ const Navbar = () => {
                       </div>
 
                       {/* <!-- col3:start --> */}
-                      <div class="col-12 col-xxl-3  py-4 px-xl-5 px-4">
+                      <div class="col-12 col-xxl-3  py-4 px-xl-2 px-4">
                         <h5 class="fw-bold">Finance & Accounting</h5>
                         <div class="list-group">
                           <Link to ="/" class="list-group-item">
@@ -148,7 +148,7 @@ const Navbar = () => {
                       </div>
 
                       {/* <!-- col4:start --> */}
-                      <div class="col-12 col-xxl-3   py-4 px-xl-5 px-4">
+                      <div class="col-12 col-xxl-3   py-4 px-xl-2 px-4">
                         <h5 class="fw-bold">Health & Fitness</h5>
                         <div class="list-group">
                           <Link to ="/" class="list-group-item">
@@ -192,7 +192,7 @@ const Navbar = () => {
 
 
                       {/* <!-- col5:start --> */}
-                      <div class=" col-12 col-xxl-3  py-4  px-xl-5 px-4">
+                      <div class=" col-12 col-xxl-3  py-4  px-xl-2 px-4">
                         <h5 class="fw-bold">IT & Software Development</h5>
                         <div class="list-group">
                           <Link to ="/" class="list-group-item">
@@ -242,7 +242,7 @@ const Navbar = () => {
 
 
                       {/* <!-- col6:start --> */}
-                      <div class=" col-12 col-xxl-3  py-4 px-xl-5 px-4">
+                      <div class=" col-12 col-xxl-3  py-4 px-xl-2 px-4">
                         <h5 class="fw-bold">Lifestyle</h5>
                         <div class="list-group">
                           <Link to ="/" class="list-group-item">
@@ -272,7 +272,7 @@ const Navbar = () => {
                       </div>
 
                       {/* <!-- col7:start --> */}
-                      <div class="col-12 col-xxl-3  py-4 px-xl-5 px-4">
+                      <div class="col-12 col-xxl-3  py-4 px-xl-2 px-4">
                         <h5 class="fw-bold">Marketing</h5>
                         <div class="list-group">
                           <Link to ="/" class="list-group-item">
@@ -314,7 +314,7 @@ const Navbar = () => {
                       </div>
 
                       {/* <!-- col8:start --> */}
-                      <div class="col-12 col-xxl-3   py-4 px-xl-5 px-4">
+                      <div class="col-12 col-xxl-3   py-4 px-xl-2 px-4">
                         <h5 class="fw-bold">Music</h5>
                         <div class="list-group">
                           <Link to ="/" class="list-group-item">
@@ -344,7 +344,7 @@ const Navbar = () => {
 
 
                        {/* <!-- col9:start --> */}
-                       <div class="col-12 col-xxl-3   py-4 px-xl-5 px-4">
+                       <div class="col-12 col-xxl-3   py-4 px-xl-2 px-4">
                         <h5 class="fw-bold">Office Productivity</h5>
                         <div class="list-group">
                           <Link to ="/" class="list-group-item">
@@ -363,7 +363,7 @@ const Navbar = () => {
 
 
                        {/* <!-- col10:start --> */}
-                       <div class="col-12 col-xxl-3   py-4 px-xl-5 px-4">
+                       <div class="col-12 col-xxl-3   py-4 px-xl-2 px-4">
                         <h5 class="fw-bold">Personal Development</h5>
                         <div class="list-group">
                           <Link to ="/" class="list-group-item">
@@ -418,7 +418,7 @@ const Navbar = () => {
                       </div>
 
                        {/* <!-- col11:start --> */}
-                       <div class="col-12 col-xxl-3   py-4 px-xl-5 px-4">
+                       <div class="col-12 col-xxl-3   py-4 px-xl-2 px-4">
                         <h5 class="fw-bold">Photography</h5>
                         <div class="list-group">
                           <Link to ="/" class="list-group-item">
