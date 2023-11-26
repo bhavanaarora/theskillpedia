@@ -79,14 +79,14 @@
     margin-right: 75px;
 }
 .search input{
-    width:500px;
+    width:550px;
     height:40px;
     border-radius: 20px;
 
 }
 .search button{
     position:absolute;  
-    left:500px;
+    left:450px;
     top:5px;
     border:0;
     }
