@@ -33,7 +33,7 @@ const Navbar = () => {
                   <div class="container-fluid ">
                     <div class="row">
                       {/* <!-- col1:start --> */}
-                      <div class=" col-12 col-xxl-3  py-4 px-xl-5 px-4">
+                      <div class=" col-12 col-xxl-3  py-4 px-xl-2 px-4">
                         <h5 class="fw-bold">Business</h5>
                         <div class="list-group">
                           <Link to ="/" class="list-group-item">
