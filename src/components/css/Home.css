@@ -1,0 +1,168 @@
+
+
+ .course button{
+    cursor:pointer;
+    position:relative;
+    border:none;
+    background-color: var(--color-default);
+    padding:20px;
+    }
+    .course button:hover{
+        cursor:pointer;
+        position:relative;
+        border:none;
+        background-color: var(--color-default);
+        padding:20px;
+        }
+    
+    .course button::before{
+      content:"";
+      position:absolute;
+      left:0px;
+      top:0px;
+      width:40px;
+      height:40px;
+      border-top:10px solid  gray;
+      border-left:10px solid  gray;
+      transition:all 0.4s;
+    }
+    .course button:hover:before{
+      width:100%;
+      height:0;
+    }
+    
+    .course button::after{
+      content:"";
+      position:absolute;
+      bottom:0px;
+      right:0px;
+      width:40px;
+      height:40px;
+      border-bottom:10px solid  var(--color-secondary);
+      border-right:10px solid  var(--color-secondary);
+      transition:all 0.4s;
+    }
+    
+    .course button:hover:after{
+      width:100%;
+      height:0;
+    }
+
+
+    /* section-3 card styling */
+
+    section{
+       margin:0 7rem;
+       
+       
+    }
+
+    @media screen and (max-width: 730px) {
+      section{        
+        margin:0 2rem;
+      }
+
+    }
+    .section3card{
+      background-color:white;
+    }
+    .section3card .card{
+     background-color:white;
+     border-radius:20%;
+     box-shadow:5px 5px 5px 5px rgb(73, 72, 72);
+     height:100%;           
+    }
+   
+    .section3card .card-body img{
+      height:15vh;
+      width:auto;
+    }
+    .section3card .card-body h5{
+     color:var(--color-secondary);
+     font-weight:bold;
+     padding:5px 0px; 
+     text-shadow:0.5px 0.5px black;
+    }
+    
+   /*======================= section featured courses =======================*/
+     
+   .featurecourses-section h3::before{
+    content:"";
+    border-bottom: solid red 6px;
+    width:60px;
+    position:absolute;
+    margin-top:-0.25em;
+   }
+   .featurecourses-section h3{
+    font-weight: 900;
+    font-size:50px;
+    }
+   .featurecourses{
+     background-color: rgb(246, 239, 239);  
+     flex-wrap: wrap;    
+   }
+   .featurecourses h5{
+    font-weight:600;
+    color:var(--color-default);
+    text-align: center;
+   }
+
+   .featurecourses .card{
+     height:100%;
+     border:none;
+     background-color:var(--color-blue);
+    }
+    .featurecourses .card:hover{
+       box-shadow:5px 5px 15px 15px rgb(73, 72, 72);
+       transition:0.5s ease-in-out;
+     
+     }
+   
+    .featurecourses .card-header{
+      border-bottom: none;
+       background-color:white;
+     }
+
+    .featurecourses .card-body{
+      border-top:5px solid gray;
+      border-top-right-radius:40%;
+      background-color:white;
+     }
+     .featurecourses .card-body i{
+      color:var(--color-secondary);
+     }
+
+    .featurecourses .card-footer{
+      background-color: white;
+      border-top: none;
+      border-bottom:1px solid gray;
+      padding: 0px;
+    }
+    .featurecourses .card-footer .btn{
+      background-color:var(--color-blue);
+      color:white;
+    }
+    .featurecourses .card-footer .btn:hover{
+      background-color:var(--color-primary);
+      font-size: 20px;
+    }
+
+    .featurecourses .card-header img{
+      width:100%;
+      height:25vh;
+      }
+    .strike{
+      text-decoration: line-through;
+    }
+    .featurecourses button{
+      background-color:var(--color-default);
+    }
+    .featurecourses button:hover{
+      background-color:var(--color-default);
+      transform:scale(1.05);
+      }
+   
+   .box{
+    background-color: rgba(255, 255, 255, .2);
+      box-shadow: (0 5px 15px rgba(0, 0, 0, .5));
+   }

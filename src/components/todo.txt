@@ -1,0 +1,12 @@
+20/11
+D1-create independent component of carousel-D
+D2-make carousel caption in center for small screen-D
+3-course dropdown is very close to search correct it
+4-try to make automatic sscroll on dropdown
+5-built the next section and footer
+D6-if required change the color of mega menu
+D7-color of blue button can be changed
+same with search icon button
+8-apply for accenture interview
+9-open linkedin and mail 
+10-change the content of courses

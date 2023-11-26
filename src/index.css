@@ -1,0 +1,20 @@
+/* Colors */
+:root {
+  --color-default: #222222;
+  --color-primary: #044463;
+  --color-secondary: #f04329;
+  /* --color-blue:#01569d; */
+  --color-blue:#0866b4;
+  --color-orange:#f56605;
+  --color-gray:#f2f0f0;
+  
+}
+
+body {
+  margin: 0;
+   -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+ 
+}
+
+
