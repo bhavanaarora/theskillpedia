@@ -79,15 +79,15 @@
     margin-right: 75px;
 }
 .search input{
-    width:500px;
+    width:520px;
     height:40px;
     border-radius: 20px;
 
 }
 .search button{
     position:absolute;  
-    left:450px;
-    top:5px;
+    left:430px;
+    top:3px;
     border:0;
     }
     @media screen and (max-width: 1200px) {
