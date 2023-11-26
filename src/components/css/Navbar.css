@@ -15,7 +15,7 @@
     flex-wrap: nowrap;
 }
 .nav-item{
-    margin-right:12px;   
+    margin-right:10px;   
 }
  .nav-link{
     text-decoration:none;
@@ -78,14 +78,14 @@
     margin-right: 75px;
 }
 .search input{
-    width:550px;
-    height:50px;
+    width:500px;
+    height:40px;
     border-radius: 20px;
 
 }
 .search button{
     position:absolute;  
-    left:690px;
+    left:500px;
     top:5px;
     border:0;
     }
@@ -103,8 +103,8 @@
 /*============== button group:login,signup and cart ====================*/
 
 .login button{
-    margin-right:3px;
-    font-size:16px;
+    margin-right:2px;
+    font-size:14px;
     background-color: var(--color-blue);
   
 }
@@ -121,7 +121,7 @@
 /*============== mega dropdown list-group ================*/
 
 .list-group{
-    max-height: 240px;
+    max-height: 200px;
     margin-bottom: 10px;
     overflow-y:scroll;
     -webkit-overflow-scrolling: touch;
@@ -158,10 +158,3 @@
     font-size: 32px;
     }
 
-/* .navbar-toggler{
-    background-color:lightgray;
-    color:none;
-}
-.navbar-toggler-icon{
-   color: var(--color-secondary);
-} */
