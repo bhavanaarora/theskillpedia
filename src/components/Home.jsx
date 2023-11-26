@@ -30,7 +30,7 @@ const Home = () => {
                 <div className="card-body">
                   <img src={pic1} alt='cardpic'></img>
                   <h5 className="card-title">Learn in-Demand Skills</h5>
-                  <p className="card-text lead fs-5">Like Cloud Computing,Dev-Ops Tools,Machine Learning and more</p>
+                  <p className="card-text lead ">Like Cloud Computing,Dev-Ops Tools,Machine Learning and more</p>
                 </div>
               </div>
               {/* colends */}
@@ -41,7 +41,7 @@ const Home = () => {
                 <div className="card-body">
                   <img src={pic2} alt='cardpic'></img>
                   <h5 className="card-title">Get Ready for Career</h5>
-                  <p className="card-text lead fs-5">In demand fields like IT,AI and Cloud Engineering</p>
+                  <p className="card-text lead ">In demand fields like IT,AI and Cloud Engineering</p>
                 </div>
               </div>
               {/* col ends */}
@@ -52,7 +52,7 @@ const Home = () => {
                 <div className="card-body">
                   <img src={pic3} alt='cardpic'></img>
                   <h5 className="card-title">Expert Instructors</h5>
-                  <p className="card-text lead fs-5">Every course designed by experts with 20+ Years of Experience</p>
+                  <p className="card-text lead ">Every course designed by experts with 20+ Years of Experience</p>
                 </div>
               </div>
               {/* colends */}
@@ -63,7 +63,7 @@ const Home = () => {
                 <div className="card-body">
                   <img src={pic4} alt='cardpic'></img>
                   <h5 className="card-title">Get Certificate</h5>
-                  <p className="card-text lead fs-5">Once you complete Link course, you will receive certification.</p>
+                  <p className="card-text lead ">Once you complete Link course, you will receive certification.</p>
                 </div>
 
               </div>

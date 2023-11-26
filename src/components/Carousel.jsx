@@ -14,7 +14,7 @@ const Carousel = () => {
           <div className="carousel-item active" data-bs-interval="5000">
             <img  src={carousel3} className="d-block w-100 h-75" alt="..."/>
             <div class="carousel-caption ">
-              <h2 className="display-3">Sieze The Opportunity To Learn,<br/>No Matter Where You Are!</h2>
+              <h2 className="display-4  ">Sieze The Opportunity To Learn,<br/>No Matter Where You Are!</h2>
             </div>
           </div>
           <div className="carousel-item" data-bs-interval="5000">

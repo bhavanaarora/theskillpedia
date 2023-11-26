@@ -5,14 +5,14 @@
     position:relative;
     border:none;
     background-color: var(--color-default);
-    padding:20px;
+    padding:15px;
     }
     .course button:hover{
         cursor:pointer;
         position:relative;
         border:none;
         background-color: var(--color-default);
-        padding:20px;
+        padding:15px;
         }
     
     .course button::before{
@@ -82,6 +82,9 @@
      font-weight:bold;
      padding:5px 0px; 
      text-shadow:0.5px 0.5px black;
+    }
+    .section3card .card p{
+      font-size:14px;
     }
     
    /*======================= section featured courses =======================*/
