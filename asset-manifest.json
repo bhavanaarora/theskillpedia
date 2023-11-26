@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/theskillpedia/static/css/main.c082a516.css",
+    "main.js": "/theskillpedia/static/js/main.44be0f11.js",
+    "static/js/787.9e9f4ffd.chunk.js": "/theskillpedia/static/js/787.9e9f4ffd.chunk.js",
+    "static/media/carousel3.jpg": "/theskillpedia/static/media/carousel3.41faebf6922b551fefe8.jpg",
+    "static/media/carousel4.jpg": "/theskillpedia/static/media/carousel4.b75f552ca24e2e9c31dd.jpg",
+    "static/media/carousel1.jpg": "/theskillpedia/static/media/carousel1.0d4d57a8f04ad46d4910.jpg",
+    "static/media/sap-ase.png": "/theskillpedia/static/media/sap-ase.7562e0d9fd5b5226fe91.png",
+    "static/media/MySQL-DBA-Course.png": "/theskillpedia/static/media/MySQL-DBA-Course.7c0631d20ff17301db70.png",
+    "static/media/linuxpic.jpg": "/theskillpedia/static/media/linuxpic.9690043420f83c20dd99.jpg",
+    "static/media/awspic.jpg": "/theskillpedia/static/media/awspic.dba05b084ab4387ee83e.jpg",
+    "static/media/logo.png": "/theskillpedia/static/media/logo.2ebff4894dc57089daef.png",
+    "static/media/OpenStackpic.jpg": "/theskillpedia/static/media/OpenStackpic.63445dbdc5beec53894a.jpg",
+    "static/media/SELinuxpic.jpg": "/theskillpedia/static/media/SELinuxpic.678b62881fa7ebb86290.jpg",
+    "static/media/instructions.svg": "/theskillpedia/static/media/instructions.86c366bfdf989b861d607b61437f04ee.svg",
+    "static/media/skills.svg": "/theskillpedia/static/media/skills.3225e4b6668906e4d651a8637e2644fc.svg",
+    "static/media/career-goal.svg": "/theskillpedia/static/media/career-goal.219fb0453a522a97fcad53970ddddea3.svg",
+    "static/media/certificate.svg": "/theskillpedia/static/media/certificate.f7c03a824faa12d73bf5fd1e0b004a34.svg",
+    "index.html": "/theskillpedia/index.html",
+    "main.c082a516.css.map": "/theskillpedia/static/css/main.c082a516.css.map",
+    "main.44be0f11.js.map": "/theskillpedia/static/js/main.44be0f11.js.map",
+    "787.9e9f4ffd.chunk.js.map": "/theskillpedia/static/js/787.9e9f4ffd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c082a516.css",
+    "static/js/main.44be0f11.js"
+  ]
+}
