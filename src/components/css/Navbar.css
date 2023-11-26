@@ -15,7 +15,7 @@
     flex-wrap: nowrap;
 }
 .nav-item{
-    margin-right:30px;   
+    margin-right:12px;   
 }
  .nav-link{
     text-decoration:none;
@@ -78,7 +78,7 @@
     margin-right: 75px;
 }
 .search input{
-    width:750px;
+    width:550px;
     height:50px;
     border-radius: 20px;
 
